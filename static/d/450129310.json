@@ -1,0 +1,1 @@
+{"errors":[{"message":"Field \"avatar_url\" must not have a selection since type \"String\" has no subfields.","locations":[{"line":17,"column":18}]}]}
